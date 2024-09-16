@@ -28,7 +28,7 @@ namespace WindowsFormsApp4
             label3.Text = "Hava durumu";
 
             // API anahtarı ve bağlantı
-            string api = "4eb23204a22fc797c44db5397a00ad96";
+            string api = "apinizi girin";
             string connection = "https://api.openweathermap.org/data/2.5/weather?q=izmir&mode=xml&lang=tr&units=metric&appid=" + api;
 
             try
